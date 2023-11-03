@@ -1,6 +1,6 @@
 # The Expression Test
-<img src="https://github.com/hschuch-04/expression-test/assets/46430331/d79fd817-923a-4e15-aba8-4550a3ee512d" width="345" height="768" />
-<img src="https://github.com/hschuch-04/expression-test/assets/46430331/5f8fc810-1673-4593-8e68-d4b6a465af1d" width="345" height="768" />
+<img src="https://github.com/hschuch-04/expression-test/assets/46430331/d79fd817-923a-4e15-aba8-4550a3ee512d" width="178" height="389" />
+<img src="https://github.com/hschuch-04/expression-test/assets/46430331/5f8fc810-1673-4593-8e68-d4b6a465af1d" width="178" height="389" />
 
 
 ## Introduction
